@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+    font-family: Verdana;
+}
+
+.header {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.main {
+    text-align: center;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+
+h4{
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+.footer {
+    text-align: right;
+}
