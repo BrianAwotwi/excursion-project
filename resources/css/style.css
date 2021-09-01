@@ -25,6 +25,10 @@ h3 {
     color: gray;
 }
 
+#phone {
+    padding-top: 25px;
+}
+
 h4{
     font-size: 16px;
     color: aquamarine;
